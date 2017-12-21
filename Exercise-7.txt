@@ -1,0 +1,21 @@
+Tugas 1
+
+BACA dan SIMPAN "angka pertama"
+BACA dan SIMPAN "angka kedua"
+HITUNG "angka pertama" dikali "angka kedua"
+SIMPAN hasil hitungan sebelumnya
+TULISKAN hasil hitungan
+
+Tugas 2
+BACA dan SIMPAN kata "Pasti bisa!"
+JIKA ada penulisan kata "Saya Belajar Javascript!"
+maka TULISKAN kata "Pasti bisa!"
+
+Tugas 3
+BACA DAN SIMPAN sebuah angka
+hitung angka dimulai dari angka 1 kemudian
+kalikan angka tersebut dengan angka 3 
+ULANGI dan lanjutkan perkalian tersebut hingga mencapai angka yang disimpan.
+TAMPILKAN angka - angka yang sudah kita hitung.
+
+
