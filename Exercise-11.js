@@ -70,5 +70,3 @@ for (var index = 1; index <= tahunLahir; index++) {
         }
     }
 }
-
-  

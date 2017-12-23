@@ -11,7 +11,7 @@ else {
   else{
     if(peran =='tabib'){
     console.log('Selamat datang di Dunia Proxytia ,' + nama + '!');
-    console.log('halo ' + peran +' ' + nama + ', kamu akan membantu temanmu yang terluka.');} 
+    console.log('halo ' + peran +' ' + nama + ', kamu akan membantu temanmu yang terluka.');}
     else{
     if(peran =='penyihir'){
     console.log('Selamat datang di Dunia Proxytia ,' + nama + '!');
@@ -19,4 +19,3 @@ else {
     }
     }
   }
-  

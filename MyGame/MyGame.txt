@@ -1,0 +1,19 @@
+Pseudocode MyGame.js
+
+Pertama buatlah variabel array pertanyaan dengan susunan (Tema, Pernyataan, Benar, Salah, Jawaban)
+buatlah variable array pertanyaan dengan susunan (Tema, Quiz, 'B', 'S')
+	buatlah function dengan nama terserah anda
+	buatlah variable jumlahbenar sama dengan 0
+		hitunglah perulangan dari baris array menurun
+			hitunglah perulangan dari baris array mendatar
+				Baca dan Tuliskan `$ Variable array pertanyaan dengan perulangan array baris menurun : $variable pertama dikali array perulangan mendatar dan menurun
+	buatlah variable games di dalam pop up agar dapat ditanyakan ke user pengguna
+		jika pertanyaan akhir baris pertama sama dengan variable games
+			maka jawaban Benar
+				buat variable jumlah benar ditambahkan 1
+				selain itu maka keluar kata Salah
+
+yang terakhir munculkan popup alert untuk mengetahui jumlah skor pemain.
+
+
+aktifkan function.
