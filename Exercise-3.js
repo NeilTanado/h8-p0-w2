@@ -1,6 +1,6 @@
-var tanggal =  ;
-var bulan =  ;
-var tahun = ;
+var tanggal = 20  ;
+var bulan = 3  ;
+var tahun = 2015 ;
 
 
 switch (bulan){
@@ -17,4 +17,3 @@ switch (bulan){
   case 11:{ console.log(tanggal + ' ' + 'November' +' '+ tahun); break; }
   case 12:{ console.log(tanggal + ' ' + 'Desember' +' '+ tahun); break; }
   default:('bukan bulan');break;}
-  
